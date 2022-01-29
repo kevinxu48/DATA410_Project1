@@ -1,2 +1,2 @@
-# DATA410_Project1
+# Kevin Xu Project 1
 My first project for DATA 410
