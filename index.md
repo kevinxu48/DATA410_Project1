@@ -1,5 +1,5 @@
 # Kevin Xu Project 1
-My first repository for DATA 410
+Does a GIF count as a picture?
 
 ![fruit](https://user-images.githubusercontent.com/98488236/151635753-01e82f55-6524-4db7-ba64-a6c1b4856c9d.gif)
 
